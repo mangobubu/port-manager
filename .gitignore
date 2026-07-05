@@ -1,0 +1,12 @@
+node_modules
+dist
+src-tauri/target
+src-tauri/gen
+.npm-cache
+.cargo
+.cargo-check-target
+.agents
+.codex
+.DS_Store
+*.log
+*.local
